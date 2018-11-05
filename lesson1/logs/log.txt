@@ -1,0 +1,10 @@
+2018-11-05 21:27:49@-@/lesson1/logs/@-@@-@127.0.0.1@-@Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+2018-11-05 21:27:51@-@/lesson1/logs/@-@@-@127.0.0.1@-@Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+2018-11-05 21:27:53@-@/lesson1/logs/@-@@-@127.0.0.1@-@Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+2018-11-05 21:28:21@-@/lesson1/logs/@-@@-@127.0.0.1@-@Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+2018-11-05 21:28:23@-@/lesson1/logs/@-@@-@127.0.0.1@-@Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+2018-11-05 21:28:24@-@/lesson1/logs/@-@@-@127.0.0.1@-@Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+2018-11-05 21:32:36@-@/lesson1/logs/@-@@-@127.0.0.1@-@Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+2018-11-05 21:32:37@-@/lesson1/logs/@-@@-@127.0.0.1@-@Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+2018-11-05 21:32:37@-@/lesson1/logs/@-@@-@127.0.0.1@-@Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+2018-11-05 21:32:37@-@/lesson1/logs/@-@@-@127.0.0.1@-@Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
