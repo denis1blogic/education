@@ -21,7 +21,7 @@ s
 
     foreach ($news as $one) {
         if(is_file("data/$one")){
-            echo "<a href=\"article.php?filename=$one\">$one</a><br>";
+            echo "<a href=\"article.php?filename=$one\">$one</a><br><hr>";
         }
     }
 
