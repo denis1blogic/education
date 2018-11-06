@@ -27,5 +27,6 @@ s
 
 ?>
 <a href="add.php">Add new file</a>
+<hr>
 </body>
 </html>

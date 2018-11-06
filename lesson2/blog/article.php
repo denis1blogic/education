@@ -27,6 +27,8 @@
 
 ?>
 <a href="index.php">Back</a>
+<hr>
+<a href="edit.php?filename=<?=$fname; ?>">Edit</a>
 </body>
 </html>
 
